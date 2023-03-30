@@ -1,0 +1,3 @@
+{:confluence {:host "https://wiki.corp.dev"
+              :user #env "WIKI_USER"
+              :password #env "WIKI_PASS"}}
